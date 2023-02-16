@@ -1,0 +1,38 @@
+#+TITLE: Lorenz's attractor
+
+[[../static/lorentz.gif]]
+
+* What is Lorenz's attractor?
+To answer this question we must first define what an attractor
+is. Matematically, an attractor is a region in space A so that:
+
+\begin{equation}
+\exists\ V : A \subset V\ \text{and}\ \forall\ \pmb{x_{0}} \in V \lim_{\pmb{x}\to\infty}
+ \varphi(\pmb{x_{0}}, t) = A
+\end{equation}
+
+That is to say: if i start in any point int the ragion V of the space i'll
+inevitably finish (will be attracted) sooner or later in the region A.
+Wait. Who starts where? And why is it being attracted to A?
+Well, while a system of equations can be a purely mathematical construct it
+often represents a model of some physical, economical or social dynamics.
+Edward Lorenz was a mathematician who studied how the weather evolves his state
+and extrapolated this system of equations:
+
+\begin{equation}
+\begin{cases}
+\dot{x} = \sigma(y-x)\\
+\dot{y} = \rho x -xz -y\\
+\dot{z} = xy - \beta z
+\end{cases}
+\end{equation}
+
+where \[ \dot{x}, \dot{y}, \dot{z}\ \text{are the time derivatives of}\ x, y, z\]
+
+* What does it means?
+[[https://journals.sagepub.com/doi/10.1177/0309133315623099][Lorenz's paper]]
+
+
+* How is it related to caos? (And what caos is?)
+
+* Back to basics

@@ -1,0 +1,15 @@
+Welcome to kit carson's garage.
+
+* Who's kit carson to me?
+Kit Carson is a fictional character, the grumbler cowboy pard of Tex Willer born
+from the pen of Giovanni Luigi Bonelli and drawn by Aurelio Galeppini.  More on
+/Capelli d'Argento/ [[https://it.wikipedia.org/wiki/Kit_Carson_(Tex)][here]] (link in italian).
+
+* Where are you?
+You are in my garage, the place were i keep stuff i've planned to do and
+probably will never finish as well as a collection of stuff i was interested to
+and then i forget about.
+
+* Projects
+
+** [[file:lorentz.org][Lorenz's attractor]]
